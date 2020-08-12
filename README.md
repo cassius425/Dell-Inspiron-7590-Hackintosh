@@ -1,6 +1,6 @@
 ## Dell-Inspiron-759x
 
-![Screen Shot 2020-08-08 at 12.47.49 PM](./Assets/Screen Shot 2020-08-08 at 12.47.49 PM.png)
+![ScreenShot](https://github.com/cassius425/Dell-Inspiron-7590-Hackintosh/blob/master/Assets/ScreenShot.png)
 
 ### System configuration
 
@@ -14,8 +14,9 @@
 
 1. This EFI is modified based on the [Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh) shared by @[tctien342](https://github.com/tctien342), thank you for sharing.
 2. OC boot has been updated to 0.6.0.
-3. Use the built-in Intel network card, Bluetooth driver : [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware), WiFi driver: [itlwm](https://github.com/OpenIntelWireless/itlwm) , WiFi needs to be used with [HeliPort](https://github.com/OpenIntelWireless/HeliPort) client,  first drive the driver, and then open the client.
-4. If using DW1820A, Please move to [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh) to view the configuration process, this article will not explain.
+3. All kext to latest.
+4. Use the built-in Intel network card, Bluetooth driver : [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware), WiFi driver: [itlwm](https://github.com/OpenIntelWireless/itlwm) , WiFi needs to be used with [HeliPort](https://github.com/OpenIntelWireless/HeliPort) client,  first drive the driver, and then open the client.
+5. If using DW1820A, Please move to [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh) to view the configuration process, this article will not explain.
 
 #### Not Working
 
