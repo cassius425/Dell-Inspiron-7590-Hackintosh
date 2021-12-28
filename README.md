@@ -17,6 +17,7 @@
 3. All kext to latest.
 4. Use the built-in Intel network card, Bluetooth driver : [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware), WiFi driver: [itlwm](https://github.com/OpenIntelWireless/itlwm) , WiFi needs to be used with [HeliPort](https://github.com/OpenIntelWireless/HeliPort) client,  first drive the driver, and then open the client.
 5. If using DW1820A, Please move to [tctien342/Dell-Inspiron-7591-Hackintosh](https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh) to view the configuration process, this article will not explain.
+6. If your NTFS partition has Windows installed, you need to run ` powercfg -h off ` in powershell in Windows to disable hibernation.
 
 #### Not Working
 
